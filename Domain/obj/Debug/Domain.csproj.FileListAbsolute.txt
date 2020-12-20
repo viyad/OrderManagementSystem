@@ -1,0 +1,12 @@
+C:\1\OrderManagementSystem\Domain\bin\Debug\Domain.dll
+C:\1\OrderManagementSystem\Domain\bin\Debug\Domain.pdb
+C:\1\OrderManagementSystem\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\1\OrderManagementSystem\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\1\OrderManagementSystem\Domain\obj\Debug\Domain.dll
+C:\1\OrderManagementSystem\Domain\obj\Debug\Domain.pdb
+C:\1\Programming\OrderManagementSystem\Domain\bin\Debug\Domain.dll
+C:\1\Programming\OrderManagementSystem\Domain\bin\Debug\Domain.pdb
+C:\1\Programming\OrderManagementSystem\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\1\Programming\OrderManagementSystem\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\1\Programming\OrderManagementSystem\Domain\obj\Debug\Domain.dll
+C:\1\Programming\OrderManagementSystem\Domain\obj\Debug\Domain.pdb
